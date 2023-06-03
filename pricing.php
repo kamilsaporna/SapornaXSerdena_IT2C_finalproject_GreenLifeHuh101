@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>SustainableLiving101 </title>
+	<title>GreenLifeHub101 </title>
 	<!-- Bootstrap core CSS -->
 	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<!-- Fontawesome CSS -->
@@ -17,7 +17,7 @@
     <!-- Navigation -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-light top-nav fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
             <img src="images_project\LOGOFINAL.png" alt="logo" />
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,48 +26,48 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                <ul class="navbar-nav ml-auto">
                   <li class="nav-item">
-                     <a class="nav-link" href="index.html">Home</a>
+                     <a class="nav-link" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="about.html">About</a>
+                     <a class="nav-link" href="about.php">About</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="services.html">Services</a>
+                     <a class="nav-link" href="services.php">Services</a>
                   </li>
                   <li class="nav-item dropdown">
                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Portfolio
                      </a>
-                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                        <a class="dropdown-item" href="portfolio-1-col.html">1 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-2-col.html">2 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-3-col.html">3 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-4-col.html">4 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-item.html">Single Portfolio Item</a>
+					 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                        <a class="dropdown-item" href="portfolio-1-col.php">Green Living Tips</a>
+                        <a class="dropdown-item" href="portfolio-2-col.php">Gardening Urban Farming</a>
+                        <a class="dropdown-item" href="portfolio-3-col.php">DIY Projects</a>
+                        <a class="dropdown-item" href="portfolio-4-col.php">Community and Engagement</a>
+                        <a class="dropdown-item" href="portfolio-item.php">Environmental News Education</a>
                      </div>
                   </li>
-                  <li class="nav-item dropdown">
-                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                     Blog
-                     </a>
-                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                        <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
-                        <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
-                        <a class="dropdown-item" href="blog-post.html">Blog Post</a>
-                     </div>
-                  </li>
+				  <li class="nav-item dropdown">
+					<a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					Blog
+					</a>
+					<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+					   <a class="dropdown-item" href="blog-home-1.php">Sustainable Home</a>
+					   <a class="dropdown-item" href="blog-home-2.php">Green Technology</a>
+					   <a class="dropdown-item" href="blog-post.php">Eco-Friendly Gardening</a>
+					</div>
+				 </li>
                   <li class="nav-item dropdown">
                      <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Pages
                      </a>
                      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                        <a class="dropdown-item" href="faq.html">FAQ</a>
-                        <a class="dropdown-item" href="404.html">404</a>
-                        <a class="dropdown-item" href="pricing.html">Pricing Table</a>
+                        <a class="dropdown-item" href="faq.php">FAQ</a>
+                        <a class="dropdown-item" href="404.php">404</a>
+                        <a class="dropdown-item" href="pricing.php">Pricing Table</a>
                      </div>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="contact.html">Contact</a>
+                     <a class="nav-link" href="contact.php">Contact</a>
                   </li>
                </ul>
             </div>
@@ -78,8 +78,8 @@
 	<div class="full-title">
 		<div class="container">
 			<!-- Page Heading/Breadcrumbs -->
-			<h1 class="mt-4 mb-3">404
-				<small>Page Not Found</small>
+			<h1 class="mt-4 mb-3">Article and Guides
+				<small>Explore Informative Articles and Helpful GuidesSubheading</small>
 			</h1>
 		</div>
 	</div>
@@ -89,22 +89,72 @@
 		<div class="breadcrumb-main">
 			<ol class="breadcrumb">
 				<li class="breadcrumb-item">
-					<a href="index.html">Home</a>
+					<a href="index.php">Home</a>
 				</li>
-				<li class="breadcrumb-item active">404</li>
+				<li class="breadcrumb-item active">Article and Guides</li>
 			</ol>
 		</div>
 
-		<div class="error-contents">
-			<h3>Oops! That page can’t be found.</h3>
-			<div class="error-img">
-				<img class="img-fluid" src="images_project\PAGENOT FOUND.jpg" alt="" />
+		<div class="pricing-box">
+		<!-- Content Row -->
+			<div class="row">
+				<div class="col-lg-4 mb-4">
+					<div class="card h-100">
+						<h3 class="card-header">Simple Steps to Start Living a Sustainable Lifestyle</h3>
+						<div class="card-body">
+							<div class="display-4"> A Beginner's Guide to Renewable Energy Sources</div>
+							<div class="font-italic">Beginner's Guide </div>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item">Clean and Sustainable Energy</li>
+							<li class="list-group-item">Energy Independence and Security</li>
+							<li class="list-group-item">Job Creation and Economic Growth</li>
+							<li class="list-group-item">
+							<a href="#" class="btn btn-primary">Sign Up!</a>
+						  </li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-4 mb-4">
+					<div class="card card-outline-primary h-100">
+						<h3 class="card-header text-white">
+							The Benefits of Organic Gardening: A Comprehensive Guide
+							<span class="most_popular">The Benefits of Organic Gardening</span>
+						</h3>
+						<div class="card-body">
+							<div class="display-4">Benefits of Organic Gardening</div>
+							<div class="font-italic">Comprehensive Guide</div>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item">Healthier and Safer Food</li>
+							<li class="list-group-item">Improved Soil Health</li>
+							<li class="list-group-item">Environmental Protection</li>
+							<li class="list-group-item">
+							<a href="#" class="btn btn-primary">Sign Up!</a>
+						  </li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-4 mb-4">
+					<div class="card h-100">
+						<h3 class="card-header">A Beginner's Guide to Renewable Energy Sources</h3>
+						<div class="card-body">
+							<div class="display-4"> Sustainable Lifestyle</div>
+							<div class="font-italic">Steps</div>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item">Reduce Waste</li>
+							<li class="list-group-item">Conserve Energy</li>
+							<li class="list-group-item">Adopt a Plant-Based Diet</li>
+							<li class="list-group-item">
+							<a href="#" class="btn btn-primary">Sign Up!</a>
+						  </li>
+						</ul>
+					</div>
+				</div>
 			</div>
-			<p>We can’t find the page your are looking for. You can check out our <a href="#">Homepage</a>.</p>
-			<a class="btn btn-primary" href="#"> Back To Homepage </a>
+		<!-- /.row -->
 		</div>
-		<!-- /.jumbotron -->
-
     </div>
     <!-- /.container -->
 
@@ -121,6 +171,7 @@
 					<p><i class="fa fa-location-arrow"></i> 4905 P4 Brgy. Cabugao </p>
 					<p><i class="fa fa-phone"></i> +63-966-422-6295 or +63-997-782-1751</p>
 					<p><i class="fa fa fa-envelope"></i> kamilsaporna123@gmail.com or Angelicaserdena770@gmail.com</p>
+
                </div>
                <div class="col-lg-3 col-md-6 col-sm-6 col">
 					<h5 class="headin5_amrc col_white_amrc pt2">Follow us</h5>
@@ -128,16 +179,21 @@
 					<ul class="footer_ul2_amrc">
 						<li>
 							<a href="#"><i class="fab fa-facebook fleft padding-right"></i> </a>
-							<p>FACEBOOK <a href="#">https://www.facebook.com/min.chaeeun.58</a></p>
+							<p>FACEBOOK <a href="#">https://www.facebook.com
+								/min.chaeeun.58</a></p>
 						</li>
 						<li>
 							<a href="#"><i class="fab fa-facebook fleft padding-right"></i> </a>
-							<p>FACEBOOK <a href="#">https://www.facebook.com/acilegna.anedres</a></p>
+							<p>FACEBOOK <a href="#">https://www.facebook.com
+								/acilegna.anedres</a></p>
 						</li>
 						<li>
 							<a href="#"><i class="fab fa-instagram fleft padding-right"></i> </a>
-							<p>INSTAGRAM <a href="#">https://www.instagram.com/kamirusenpai/</a></p>
+							<p>INSTAGRAM <a href="#">https://www.instagram.com
+								/kamirusenpai/</a></p>
 						</li>
+
+
 					</ul>
 					<!--footer_ul2_amrc ends here-->
 				</div>
@@ -160,28 +216,28 @@
 					<ul class="footer_ul_amrc">
 						<li class="media">
 							<div class="media-left">
-								<img class="img-fluid" src="images_project\404 page 1.webp" alt="" />
+								<img class="img-fluid" src="images/post-img-01.jpg" alt="" />
 							</div>
 							<div class="media-body">
-								<p>How to find best tips for sustainable Living?</p>
+								<p>How to find best dog food?</p>
 								<span>22 Sep 2018</span>
 							</div>
 						</li>
 						<li class="media">
 							<div class="media-left">
-								<img class="img-fluid" src="images_project\404 page 2.webp" alt="" />
+								<img class="img-fluid" src="images/post-img-02.jpg" alt="" />
 							</div>
 							<div class="media-body">
-								<p>How to find best DIY projects?</p>
+								<p>How to find best dog food?</p>
 								<span>34 Sep 2018</span>
 							</div>
 						</li>
 						<li class="media">
 							<div class="media-left">
-								<img class="img-fluid" src="images_project\404 page 3.jpg" alt="" />
+								<img class="img-fluid" src="images/post-img-03.jpg" alt="" />
 							</div>
 							<div class="media-body">
-								<p>How to make a sustainable projects?</p>
+								<p>How to find best dog food?</p>
 								<span>30 Sep 2018</span>
 							</div>
 						</li>
@@ -192,10 +248,10 @@
 		</div>
         <div class="container">
             <div class="footer-logo">
-				<a href="#"><img src="images_project\404 page 4.jpg" alt="" /></a>
+				<a href="#"><img src="images_project\LOGOFINAL.png" alt="" /></a>
 			</div>
             <!--foote_bottom_ul_amrc ends here-->
-            <p class="copyright text-center">All Rights Reserved. &copy; 2018 <a href="#">GreenHub101</a> Design By : 
+            <p class="copyright text-center">All Rights Reserved. &copy; 2018 <a href="#">GreenLifeHub101</a> Design By : 
 				<a href="https://html.design/">html design</a>
             </p>
             <ul class="social_footer_ul">

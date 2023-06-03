@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webapp-finalproject>
+    <title>GreenLifeHub 101</title>
+    <link>https://github.com/kamilsaporna/SapornaXSerdena_IT2C_finalproject_GreenLifeHuh101.git</link>
+    <description>At GreenLifeHub101, we are dedicated to promoting and facilitating sustainable living practices for a greener and more environmentally conscious world. Our mission is to empower individuals and communities to adopt eco-friendly lifestyles, make informed choices, and contribute to a sustainable future. Through our platform, we strive to provide a comprehensive resource that educates, inspires, and supports individuals on their sustainable living journey. We believe that every small action counts and that collective efforts can create a significant positive impact on the planet.</description>
+    <author>
+        <name>kamilsaporna</name>
+        <email>kamilsaporna123@gmail.com</email>
+    </author>
+    <created>May 26, 2023</created>
+    <pages>
+        <page>
+            <title>GreenLifeHub Website</title>
+            <php>index.php</php>
+            <xml>index.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub About</title>
+            <php>about.php</php>
+            <xml>about.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Services</title>
+            <php>services.php</php>
+            <xml>services.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Portfolio 1</title>
+            <php>portfolio-1-col.php</php>
+            <xml>portfolio-1-col.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Portfolio 2</title>
+            <php>portfolio-2-col.php</php>
+            <xml>portfolio-2-col.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Portfolio 3</title>
+            <php>portfolio-3-col.php</php>
+            <xml>portfolio-3-col.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Portfolio 4</title>
+            <php>portfolio-4-col.php</php>
+            <xml>portfolio-4-col.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Portfolio 5</title>
+            <php>portfolio-item.php</php>
+            <xml>portfolio-item.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Topic 1</title>
+            <php>blog-home-1.php</php>
+            <xml>blog-home-1.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Topic 2</title>
+            <php>blog-home-2.php</php>
+            <xml>blog-home-2.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Topic 3</title>
+            <php>blog-post.php</php>
+            <xml>blog-post.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub FAQ's</title>
+            <php>faq.php</php>
+            <xml>faq.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Page not Found</title>
+            <php>404.php</php>
+            <xml>404.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Articles and Guides</title>
+            <php>pricing.php</php>
+            <xml>pricing.xml</xml>
+        </page>
+        <page>
+            <title>GreenLifeHub Contacts</title>
+            <php>contact.php</php>
+            <xml>contact.xml</xml>
+        </page>
+    </pages>
+</webapp-finalproject>

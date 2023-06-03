@@ -1,5 +1,5 @@
 /*!
- *  N & LW Lawn Care - Landscaping Bootstrap4 HTML5 Responsive Template
+ *  GREENHUB101
  */
 
  
@@ -569,16 +569,8 @@ footer p {
     transform: translateY(-50%);
     color: #4eae3a;
 }
-.error-contents{
-	padding: 30px 0px;
-	max-width: 980px;
-	margin: 0 auto;
-	text-align: center;
-}
-.error-contents{}
-.pricing-box{
-	padding: 30px 0px;
-}
+
+
 .pricing-box .card{
 	position: relative;
 	overflow: hidden;
