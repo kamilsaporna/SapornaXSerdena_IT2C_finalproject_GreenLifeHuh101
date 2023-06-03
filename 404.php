@@ -189,7 +189,7 @@
 							</div>
 							<div class="media-body">
 								<p>How to make a sustainable projects?</p>
-								<span>30 Sep 2022</span>
+								<span>30 Sep </span>
 							</div>
 						</li>
 					</ul>
